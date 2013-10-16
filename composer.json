@@ -1,0 +1,12 @@
+{
+    "name": "mrferos/complexify",
+    "description": "A port of Dan Palmer's Complexify plugin for jQuery",
+    "authors": [
+        {
+            "name": "Andres Galindo",
+            "email": "me@andresgalindo.us"
+        }
+    ],
+    "require": {
+    }
+}
