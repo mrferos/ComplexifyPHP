@@ -169,7 +169,7 @@ class Complexify
 
         $passwordLength = strlen($password);
 
-        $returnObject = new stdClass();
+        $returnObject = new \stdClass();
         $returnObject->complexity = 0;
         $returnObject->valid      = false;
 
